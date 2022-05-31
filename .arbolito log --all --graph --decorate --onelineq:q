@@ -1,0 +1,20 @@
+* [33mef72abf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m nueva version hyperblog
+* [33mb64f1ab[m Actualizacion del titulo
+*   [33m46a43b5[m solucion de conflicto de ramas al fucionar
+[32m|[m[33m\[m  
+[32m|[m * [33m75e2d47[m[33m ([m[1;32mcabecera[m[33m)[m modifique cabecera y color de texto
+* [33m|[m [33m10d26c8[m modifique cabecera y color azul
+[33m|[m[33m/[m  
+* [33m1569064[m cambio de tipografia y acentos
+*   [33mb2c45ba[m Merge branch 'cabecera'
+[34m|[m[35m\[m  
+[34m|[m * [33m7f14233[m finalizada cabecera azul
+[34m|[m * [33m74c5f0a[m estructura inicial de cabecera
+* [35m|[m [33m590d2ac[m cambio de tipografia
+[35m|[m[35m/[m  
+* [33mfb2473a[m Blogpost commit
+* [33m5756f33[m archivo html
+* [33mc3e0f77[m se agrega lugar de origen
+* [33mfd39eb9[m se agrega edad a la historia
+* [33m8443d39[m se agrega archivo historia
+* [33mcc2d85a[m[33m ([m[1;31morigin/main[m[33m)[m Initial commit
